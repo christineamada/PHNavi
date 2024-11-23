@@ -1,6 +1,9 @@
-# Navi API
+# PHNavi
 
-Welcome to the Navi API project! This is a Django-based web application designed to provide a robust and scalable API for various functionalities.
+The Navi project is a web application built with Django for the backend and Vue.js for the frontend. This full-stack application is designed to offer a scalable and interactive user experience, providing a robust API and intuitive frontend interface for various functionalities.
+
+Follow the instructions below to get the system up and running, and explore the features that the Navi project has to offer.
+
 
 ## Table of Contents
 
